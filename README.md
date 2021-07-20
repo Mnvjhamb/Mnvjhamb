@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25px">
 - 🔭 I’m currently working on [Reddit-Clone](https://github.com/Mnvjhamb/Reddit-Clone)
 - 🌱 I’m currently learning **C++**
-- 📫 How to reach me: [Instagram](https://www.instagram.com/jhamb_mnv/), [LinkedIn](https://www.linkedin.com/in/manav-jhamb-15b6s91bb)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/jhamb_mnv/), [LinkedIn](https://www.linkedin.com/in/manav-jhamb)
 
 
 ### Tools and Languages:
@@ -115,7 +115,7 @@ No Activity Tracked This Week
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/manav-jhamb-15b6s91bb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/manav-jhamb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/jhamb_mnv"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
