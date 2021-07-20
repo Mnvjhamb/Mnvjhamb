@@ -59,41 +59,41 @@
 
 <a href="https://github.com/Mnvjhamb?tab=followers"><img src="https://img.shields.io/github/followers/Mnvjhamb?label=Followers&style=social" alt="GitHub Badge"></a>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-159-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62846%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-376365%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 298 Contributions in the Year 2021
+> 🏆 40 Contributions in the Year 2021
  > 
-> 📦 114.8 kB Used in Github's Storage 
+> 📦 36.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    59 commits     ███████░░░░░░░░░░░░░░░░░░   30.89% 
-🌆 Daytime    96 commits     ████████████░░░░░░░░░░░░░   50.26% 
-🌃 Evening    35 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+🌞 Morning    10 commits     ██████████░░░░░░░░░░░░░░░   43.48% 
+🌆 Daytime    9 commits      █████████░░░░░░░░░░░░░░░░   39.13% 
+🌃 Evening    4 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
-Tuesday      20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
-Wednesday    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
-Thursday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
-Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.57% 
-Saturday     37 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.37% 
-Sunday       32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.75%
+Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+Tuesday      5 commits      █████░░░░░░░░░░░░░░░░░░░░   21.74% 
+Wednesday    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+Thursday     8 commits      ████████░░░░░░░░░░░░░░░░░   34.78% 
+Friday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+Saturday     4 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Sunday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 ```
 
@@ -104,19 +104,12 @@ Sunday       32 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               10 hrs 17 mins      ████████████░░░░░░░░░░░░░   51.27% 
-C++                      5 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   27.08% 
-EJS                      3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-HTML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.76% 
-CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26%
+No Activity Tracked This Week
 
 ```
 
 
  Last Updated on 20/07/2021
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
