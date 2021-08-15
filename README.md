@@ -112,7 +112,7 @@ EJS                      0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
