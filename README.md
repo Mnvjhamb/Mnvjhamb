@@ -67,7 +67,7 @@
 
 > 🏆 152 Contributions in the Year 2021
  > 
-> 📦 36.8 kB Used in Github's Storage 
+> 📦 36.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,14 +104,12 @@ Sunday       10 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               5 hrs 57 mins       █████████████████████████   99.73% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+JavaScript               4 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/09/2021
+ Last Updated on 17/09/2021
 <!--END_SECTION:waka-->
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
