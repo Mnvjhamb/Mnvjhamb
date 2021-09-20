@@ -59,41 +59,41 @@
 
 <a href="https://github.com/Mnvjhamb?tab=followers"><img src="https://img.shields.io/github/followers/Mnvjhamb?label=Followers&style=social" alt="GitHub Badge"></a>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-382763%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-400188%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 152 Contributions in the Year 2021
+> 🏆 159 Contributions in the Year 2021
  > 
-> 📦 36.9 kB Used in Github's Storage 
+> 📦 37.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    54 commits     ██████████░░░░░░░░░░░░░░░   42.52% 
-🌆 Daytime    51 commits     ██████████░░░░░░░░░░░░░░░   40.16% 
-🌃 Evening    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
+🌞 Morning    54 commits     ██████████░░░░░░░░░░░░░░░   41.54% 
+🌆 Daytime    54 commits     ██████████░░░░░░░░░░░░░░░   41.54% 
+🌃 Evening    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.92% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
-Tuesday      20 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
-Wednesday    33 commits     ██████░░░░░░░░░░░░░░░░░░░   25.98% 
-Thursday     29 commits     █████░░░░░░░░░░░░░░░░░░░░   22.83% 
-Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
-Saturday     9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
-Sunday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
+Monday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+Tuesday      21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
+Wednesday    33 commits     ██████░░░░░░░░░░░░░░░░░░░   25.38% 
+Thursday     29 commits     █████░░░░░░░░░░░░░░░░░░░░   22.31% 
+Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+Saturday     9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.92% 
+Sunday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46%
 
 ```
 
@@ -104,12 +104,12 @@ Sunday       10 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 41 mins       █████████████████████████   100.0%
+JavaScript               5 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 19/09/2021
+ Last Updated on 20/09/2021
 <!--END_SECTION:waka-->
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
