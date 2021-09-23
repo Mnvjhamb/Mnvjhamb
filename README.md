@@ -59,15 +59,15 @@
 
 <a href="https://github.com/Mnvjhamb?tab=followers"><img src="https://img.shields.io/github/followers/Mnvjhamb?label=Followers&style=social" alt="GitHub Badge"></a>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-400188%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 159 Contributions in the Year 2021
  > 
-> 📦 37.1 kB Used in Github's Storage 
+> 📦 37.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,16 +104,16 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 32 mins        ████████████████████████░   95.64% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+JavaScript               2 hrs 3 mins        ████████████████████████░   96.68% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 ```
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
