@@ -59,7 +59,7 @@
 
 <a href="https://github.com/Mnvjhamb?tab=followers"><img src="https://img.shields.io/github/followers/Mnvjhamb?label=Followers&style=social" alt="GitHub Badge"></a>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-400500%20lines%20of%20code-blue)
 
@@ -104,16 +104,14 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 27 mins       ██████████████████████░░░   90.25% 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.16% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
+JavaScript               2 hrs 22 mins       ███████████████████████░░   92.45% 
+Git Config               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.51% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 ```
 
 
- Last Updated on 27/09/2021
+ Last Updated on 28/09/2021
 <!--END_SECTION:waka-->
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
