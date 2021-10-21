@@ -104,13 +104,12 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               5 hrs 17 mins       ████████████████████████░   99.12% 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
+JavaScript               3 hrs 2 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/10/2021
+ Last Updated on 21/10/2021
 <!--END_SECTION:waka-->
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
