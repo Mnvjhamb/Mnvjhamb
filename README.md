@@ -109,7 +109,7 @@ JavaScript               4 hrs 36 mins       ███████████�
 ```
 
 
- Last Updated on 23/10/2021
+ Last Updated on 24/10/2021
 <!--END_SECTION:waka-->
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
