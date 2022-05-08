@@ -59,6 +59,8 @@
 
 <a href="https://github.com/Mnvjhamb?tab=followers"><img src="https://img.shields.io/github/followers/Mnvjhamb?label=Followers&style=social" alt="GitHub Badge"></a>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-401%20Thousand%20lines%20of%20code-blue)
@@ -109,7 +111,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/05/2022 00:45:38 UTC
+ Last Updated on 08/05/2022 00:47:54 UTC
 <!--END_SECTION:waka-->
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
