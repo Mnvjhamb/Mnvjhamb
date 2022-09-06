@@ -59,7 +59,7 @@
 
 <a href="https://github.com/Mnvjhamb?tab=followers"><img src="https://img.shields.io/github/followers/Mnvjhamb?label=Followers&style=social" alt="GitHub Badge"></a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,8 +77,41 @@
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 05/09/2022 01:09:22 UTC
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    12 commits     █████████░░░░░░░░░░░░░░░░   37.5% 
+🌃 Evening    14 commits     ███████████░░░░░░░░░░░░░░   43.75% 
+🌙 Night      6 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.75%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       7 commits      █████░░░░░░░░░░░░░░░░░░░░   21.88% 
+Tuesday      5 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
+Wednesday    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Friday       6 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Saturday     4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Sunday       4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 06/09/2022 01:02:50 UTC
 <!--END_SECTION:waka-->
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
