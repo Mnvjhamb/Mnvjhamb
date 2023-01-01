@@ -67,7 +67,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 29 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 41.7 kB Used in GitHub's Storage 
  > 
@@ -111,7 +111,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2022 00:43:47 UTC
+ Last Updated on 01/01/2023 00:55:46 UTC
 <!--END_SECTION:waka-->
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect with me:
